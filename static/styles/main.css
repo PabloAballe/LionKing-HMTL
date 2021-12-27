@@ -1,0 +1,31 @@
+body {
+    background-image: url("../assets/images/lion-king.png");
+    background-color: #000000;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: sans-serif;
+    text-align: justify;
+}
+h1, h5{
+    color:white;
+    
+}
+h1{
+    font-size: -webkit-xxx-large;
+}
+h5{
+    font-size: x-large;
+}
+.main-content{
+    padding: 2rem;
+}
+.main-content-text{
+    background-color: white;
+    padding: 2rem;
+    opacity: 0.8;
+    border: 1px solid black;
+}
+.main-content-text p{
+    opacity: 10;
+}
+
